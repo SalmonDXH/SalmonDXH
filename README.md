@@ -16,11 +16,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/f8/c5/55/f8c555ef991408ee6d9e25741087d8dc.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
