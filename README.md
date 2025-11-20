@@ -83,12 +83,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SalmonDXH/SalmonDXH/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div align="center">
   <a href="https://discord.com/users/812168159246417980" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
